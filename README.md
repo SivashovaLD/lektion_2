@@ -20,3 +20,8 @@
     3.1. подпункт
 
     3.2. подпункт
+
+
+   [Ссылка на репозиторий] (https://github.com/SivashovaLD/lektion_2/blob/main/README.md)
+
+   [Ccylka](folder/README.md)
